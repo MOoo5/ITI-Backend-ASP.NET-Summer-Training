@@ -1,0 +1,16 @@
+1-Student Grades System
+Create a 2D array for 5 students and 4 subjects.
+The program should:
+    • Store students' grades
+    • Display all grades.
+    • Calculate each student's average.
+
+2-Create a Rectangle struct with:
+    • Width
+    • Height
+    • Use properties (getters and setters) to access and modify these values.
+    • Add a method named GetArea() that returns the rectangle's area.
+    • Display:
+           •  Width
+           • Height
+           • Area
